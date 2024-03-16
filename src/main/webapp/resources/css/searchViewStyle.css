@@ -1,0 +1,30 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    background: #0F2027 !important;
+    background: -webkit-linear-gradient(to right, #bdc3c7, #2c3e50) !important;
+    background:linear-gradient(to right, #bdc3c7, #2c3e50) !important;
+
+}
+body h2{
+    text-align: center;
+    color: rgb(99, 99, 99);
+}
+section{
+    padding: 3vw;
+    margin: 3vw 10vw !important;
+    background-color: ghostwhite;
+    border-radius: 12px;
+    box-shadow: 0px -1px 81px -28px rgb(0 0 0 / 74%);
+}
+input[readonly] {
+    background-color: #f0f0fc;
+}
+.form-label{
+    font-weight: 400;
+    color: rgb(129, 126, 126);
+}
+.required:after {
+    content:" *";
+    color: red;
+}

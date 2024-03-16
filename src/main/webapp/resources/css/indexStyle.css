@@ -1,0 +1,116 @@
+
+body{
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+    color: #FFEFEF;
+    margin: 0;
+    height: 150vh;
+    background: url("background.jpg") no-repeat;
+    background-size: cover;
+}
+.hero{
+    height:60vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    background: #6441A5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2a0845, #6441A5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2a0845, #6441A5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    clip-path: polygon(0 0, 100% 0%, 100% 76%, 0% 100%);
+
+}
+.header {
+    color: white;
+    font-weight: 500;
+    font-size: 5vw;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    width: 100vw;
+    justify-content: flex-start;
+    padding: 10px 0px;
+    position: relative;
+    margin: 0vw 5vw;
+    /* align-content: center; */
+    align-items: center;
+}
+.content {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-container button{
+    margin: 20px;
+    padding: 40px 80px;
+    border: none;
+    cursor: pointer;
+    height: 100px;
+    width: 350px;
+}
+
+
+.first{
+    font-size: 18px;
+    font-weight: 300;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    transition: all 0.3s ease-in-out;
+}
+.first:hover{
+    box-shadow: inset 0px -200px 0px 0px #000;
+    color: white;
+}
+
+
+#makerContent{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    position: absolute;
+    top: 6%;
+    right: 2%;
+    font-size: 18px;
+    font-weight: 300;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    transition: all 0.3s ease-in-out;
+    width: 120px;
+    height: 50px;
+}
+.btn:hover {
+    box-shadow: inset 0px -200px 0px 0px #000;
+    color: white;
+}
+.loan-container{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loan-container button{
+    margin: 70px 20px;
+    padding: 40px 80px;
+    border: none;
+    cursor: pointer;
+    height: 100px;
+    width: 350px;
+}
+.management h3{
+    color: #442170;
+    text-align: center;
+    margin-top: 5vh;
+    margin-bottom: 4vh;
+
+}

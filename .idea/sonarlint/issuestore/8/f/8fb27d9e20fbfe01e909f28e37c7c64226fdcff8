@@ -1,0 +1,10 @@
+
+|
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "emiAmount".(ùøŠÂüÿÿÿÿ
+k
+java:S1659"PDeclare "monthlyInterestRate" and all following declarations on a separate line.(»ï¼Ïıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­œÌ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(”²á
+e
+java:S1659#"JDeclare "principalPaid" and all following declarations on a separate line.(ªÔÒãÿÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(“ÆÃÃøÿÿÿÿ

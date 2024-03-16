@@ -1,0 +1,23 @@
+
+s
+java:S1104"VMake loanAmount a static final constant or non-public and provide accessors if needed.(…¡Ã¥8¿Æ÷µ0
+t
+java:S1104#"RMake tenure a static final constant or non-public and provide accessors if needed.(›Û–›ùÿÿÿÿ8ÀÆ÷µ0
+m
+java:S1104$"PMake rate a static final constant or non-public and provide accessors if needed.(ĞÂ¢8ÀÆ÷µ0
+s
+java:S1104%"VMake loanStatus a static final constant or non-public and provide accessors if needed.(¢œÎ·8ÀÆ÷µ0
+w
+java:S1104&"UMake emiAmount a static final constant or non-public and provide accessors if needed.(¹¡·•ùÿÿÿÿ8ÀÆ÷µ0
+z
+java:S1104("]Make loanDisbursalDate a static final constant or non-public and provide accessors if needed.(üğ€Ÿ8ÀÆ÷µ0
+x
+java:S1104)"VMake emiDueDate a static final constant or non-public and provide accessors if needed.(ğöùåıÿÿÿÿ8ÀÆ÷µ0
+{
+java:S1104*"^Make repaymentFrequency a static final constant or non-public and provide accessors if needed.(ÕèÆÙ8ÁÆ÷µ0
+O
+java:S1948"-Make "loanProduct" transient or serializable.(³Ğ½çùÿÿÿÿ8Ï‡‚¶0
+P
+java:S19480"3Make "repaymentSchedule" transient or serializable.(À¢’8Ğ‡‚¶0
+e
+java:S1854L"CRemove this useless assignment to local variable "beginningAmount".(Íú¾èûÿÿÿÿ8¤Ç÷µ0

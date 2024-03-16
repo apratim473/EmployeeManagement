@@ -1,0 +1,42 @@
+
+^
+java:S11921"IDefine a constant instead of duplicating this literal "employee" 6 times.(ðÙ…~
+m
+java:S1192]"WDefine a constant instead of duplicating this literal "No such record exists!" 3 times.(ÙëÂÎ
+c
+java:S1192Ë"LDefine a constant instead of duplicating this literal "loanProduct" 3 times.(£”è 
+^
+java:S1192?"HDefine a constant instead of duplicating this literal "warning" 7 times.(Êòõª
+c
+java:S1192A"HDefine a constant instead of duplicating this literal "Alert! " 7 times.(£Þá÷ùÿÿÿÿ
+i
+java:S1192Í"MDefine a constant instead of duplicating this literal "Vehicle Loan" 3 times.(ºŠ’ûÿÿÿÿ
+j
+java:S1192ò"NDefine a constant instead of duplicating this literal "repaySchedule" 3 times.(°ÿ¾þøÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "index" 5 times.(¦œû×ÿÿÿÿÿ
+c
+java:S11920"HDefine a constant instead of duplicating this literal "success" 5 times.(úÏ´ûÿÿÿÿ
+a
+java:S1192È"JDefine a constant instead of duplicating this literal "Home Loan" 3 times.(ûûÒ¦
+^
+java:S2184"BCast one of the operands of this division operation to a "double".(Ú¾›Ãûÿÿÿÿ
+\
+java:S2184"@Cast one of the operands of this integer division to a "double".(Ú¾›Ãûÿÿÿÿ
+[
+java:S46847"@Replace this persistent entity with a simple POJO or DTO object.(˜÷ûÚùÿÿÿÿ
+=
+java:S1125j"'Remove the unnecessary boolean literal.(ÁçØä
+[
+java:S4684x"@Replace this persistent entity with a simple POJO or DTO object.(—Ú§¯ûÿÿÿÿ
+>
+java:S1125‡"'Remove the unnecessary boolean literal.(ÁçØä
+\
+java:S4684•"@Replace this persistent entity with a simple POJO or DTO object.(•‘Å¹úÿÿÿÿ
+R	java:S125™"<This block of commented-out lines of code should be removed.(üÃ¢’
+R	java:S125Ý"<This block of commented-out lines of code should be removed.(¾Ú©ö
+[	java:S106ê"9Replace this use of System.out or System.err by a logger.(éÐ«þÿÿÿÿ8ßÊùô·0
+V	java:S106ë"9Replace this use of System.out or System.err by a logger.(ý«†–8àÊùô·0
+[	java:S106ï"9Replace this use of System.out or System.err by a logger.(Ò˜®¾øÿÿÿÿ8·‰úô·0
+f
+java:S4488ú"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Üþñæüÿÿÿÿ

@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    background: #92A9BD;
+    flex-direction: column;
+    color: #FFEFEF;
+    justify-content:center ;
+    align-items: center;
+    font-family: "Bookman Old Style";
+}
+body p{
+    font-size: 7vh;
+    margin: 0px;
+}
+.logoutBtn{
+    margin: 5vh 0vh;
+}

@@ -1,0 +1,60 @@
+body{
+    overflow-x: hidden;
+    background: url("background.jpg");
+}
+.hero{
+    height:45vh;
+    width: 100vw;
+    /*display: flex;*/
+    /*justify-content: center;*/
+    color: #fff;
+    background: #6441A5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2a0845, #6441A5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2a0845, #6441A5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    clip-path: polygon(0 0, 100% 0%, 100% 76%, 0% 100%);
+
+}
+.header{
+    color: white;
+    font-weight: 500;
+    font-size: 4vw;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    padding: 10px 0;
+    position: relative;
+    margin: 0 5vw;
+    /* align-content: center; */
+    align-items: center;
+}
+
+.content h2{
+    /*margin-top: 1.5em;*/
+    text-align: center;
+}
+
+form{
+    /*margin-top: 15vh;*/
+}
+label{
+    font-size: 2vw ;
+}
+.form-control{
+    width: 50% !important;
+    margin-left: 50vh;
+}
+.form-label{
+    margin-left: 50vh;
+}
+.search{
+    margin-top: 10vh;
+    float: left;
+    margin-left: 80vh;
+}
+.cancel{
+    margin-top: 10vh;
+    float: right;
+    margin-right: 80vh;
+}
